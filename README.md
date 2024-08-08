@@ -2,6 +2,10 @@
 
 This project demonstrates the integration of the BVH (Bounding Volume Hierarchy) component with instanced meshes in Three.js. It includes custom stats for analyzing rendering quality and mesh details.
 
+## YouTube Video Link of Project
+
+https://www.youtube.com/watch?v=sRjJl_avdL8
+
 ## Overview
 
 This project includes:
